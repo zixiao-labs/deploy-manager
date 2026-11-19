@@ -1,6 +1,18 @@
 {
   "version": 2,
   "skills": {
+    "app-icon-gen": {
+      "source": "xzhih/app-icon-skill",
+      "sourceType": "github",
+      "skillPath": "skills/app-icon-gen/SKILL.md",
+      "computedHash": "becd3c091194470062d0dde43bb1c8c37a6fd2e26730fe407f0921fb676aece2"
+    },
+    "app-icon-template-creator": {
+      "source": "xzhih/app-icon-skill",
+      "sourceType": "github",
+      "skillPath": "skills/app-icon-template-creator/SKILL.md",
+      "computedHash": "5145d9ecccac15721c459cce8a8d949b63f3bf1bb4ab58050a4b6697817cde45"
+    },
     "oil-ui": {
       "source": "oil-oil/oil-ui",
       "commit": "81f2657f41410f04ae47ba77f902fcc0567eaab2",
