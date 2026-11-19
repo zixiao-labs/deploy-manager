@@ -1,0 +1,12 @@
+allowBuilds:
+  '@vgpu/adapter-node': true
+  webgpu: true
+minimumReleaseAgeExclude:
+  - '@zixiao-labs/ui-kits-react@0.1.1'
+permissions:
+  '@tanstack/react-router':
+    skills: [router-query, migrate-from-react-router, react-router]
+skills:
+  dirs:
+    - .agents/skills
+    - .claude/skills
