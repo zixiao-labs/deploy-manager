@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "skills": {
+    "unslop": {
+      "source": "heydamir/unslop",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/unslop/SKILL.md",
+      "computedHash": "9a185defd7c852782c0c8d9b5445e8c62742a1c8148b0aae6e06c57c84547bed"
+    }
+  }
+}
