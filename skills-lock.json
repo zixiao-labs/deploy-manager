@@ -1,12 +1,19 @@
 {
-  "version": 1,
+  "version": 2,
   "skills": {
+    "oil-ui": {
+      "source": "oil-oil/oil-ui",
+      "commit": "81f2657f41410f04ae47ba77f902fcc0567eaab2",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "f909a6388946f1783bd9ccd3e3830400e17157b11b588b2dd345985996b683bf"
+    },
     "unslop": {
       "source": "heydamir/unslop",
       "ref": "main",
       "sourceType": "github",
       "skillPath": "skills/unslop/SKILL.md",
-      "computedHash": "9a185defd7c852782c0c8d9b5445e8c62742a1c8148b0aae6e06c57c84547bed"
+      "computedHash": "34b16270083f9892424a0b41dec4d5f25a73709c9cffa7702e57c723000e6df5"
     }
   }
 }
